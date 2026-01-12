@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://casinosadmiral-online.com/
+Sitemap: https://casinosadmiral-online.com/sitemap.xml

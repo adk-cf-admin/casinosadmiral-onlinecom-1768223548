@@ -1,0 +1,19 @@
+{
+  "name": "Admiral San Roque Casino",
+  "short_name": "Admiral San Roque Casino",
+  "theme_color": "",
+  "background_color": "#030303",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1768221775-cropped-casino-admiral-favicon-192x192.webp",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
